@@ -1,6 +1,6 @@
 # SQLite
 Mengimplementasi kan SQLite
-###E41200175_Adam Dwi Julianto
+### E41200175_Adam Dwi Julianto
 ### Memilki data yang sudah di inputkan di dalam codingan nya untuk mengetes apakah data yang di input masuk
 ### Mengklik button buat biodata baru
 ![WhatsApp Image 2021-10-22 at 20 58 17](https://user-images.githubusercontent.com/81203366/138467271-17099f16-c976-4003-bcb8-eb295655c70c.jpeg)
