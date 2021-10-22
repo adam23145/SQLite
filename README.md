@@ -5,7 +5,7 @@ Mengimplementasi kan SQLite
 ### Mengklik button buat biodata baru
 ![WhatsApp Image 2021-10-22 at 20 58 17](https://user-images.githubusercontent.com/81203366/138467271-17099f16-c976-4003-bcb8-eb295655c70c.jpeg)
 ###
-### Untuk measukkan nilai biodata dengan syarat nomor jangan sama dengan nomor biodata yang sudah ke input
+### Untuk memasukkan nilai biodata dengan syarat nomor jangan sama dengan nomor biodata yang sudah ke input
 ###
 ![WhatsApp Image 2021-10-22 at 20 58 17 (1)](https://user-images.githubusercontent.com/81203366/138467390-509781c9-c27f-47ce-a833-5abc818f75c3.jpeg)
 ###
